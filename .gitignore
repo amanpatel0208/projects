@@ -1,0 +1,12 @@
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python/Flask files
+venv/
+.venv/
+__pycache__/
+*.pyc
+instance/
+.env
